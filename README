@@ -1,0 +1,2 @@
+This is an application which fetches all the comics comics through the JSON interface of xkcd.
+In this application using GO Concurrency pattern (Worker Pool) 
